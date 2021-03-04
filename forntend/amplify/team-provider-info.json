@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-forntend-dev-193555-authRole",
+      "UnauthRoleArn": "arn:aws:iam::390121052268:role/amplify-forntend-dev-193555-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::390121052268:role/amplify-forntend-dev-193555-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-forntend-dev-193555-deployment",
+      "UnauthRoleName": "amplify-forntend-dev-193555-unauthRole",
+      "StackName": "amplify-forntend-dev-193555",
+      "StackId": "arn:aws:cloudformation:us-east-1:390121052268:stack/amplify-forntend-dev-193555/43d75680-7588-11eb-a351-12afb4d5f445",
+      "AmplifyAppId": "d283jzz34a7l9v"
+    }
+  }
+}
